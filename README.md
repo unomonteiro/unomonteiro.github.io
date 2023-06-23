@@ -24,7 +24,7 @@ Showcasing CI/CD integration from github, passing by Bitrise deploy to testers, 
 Published on [**Google Play**](https://play.google.com/store/apps/details?id=io.monteirodev.materialcalculator).  
 Source code available at __[Github](https://github.com/unomonteiro/MaterialCalculator)__.
 
-<img src="https://github.com/unomonteiro/unomonteiro.github.io/assets/7604348/2367ec77-f7a8-4dce-b47d-72562645e60d" width="400" /> <img src="https://github.com/unomonteiro/unomonteiro.github.io/assets/7604348/44b8201d-954a-4176-94f3-d3a9bab2562a" width="400" />
+<img src="https://github.com/unomonteiro/unomonteiro.github.io/assets/7604348/83545432-314c-445b-8ec0-4fe6ae3fabf0" width="400" /> <img src="https://github.com/unomonteiro/unomonteiro.github.io/assets/7604348/cc69b2ad-eaa2-4024-ab80-9b6254287d13" width="400" />
 
 ___
 
@@ -63,13 +63,10 @@ ___
 Recipes app with phone and tablet layout.
 
 #### Phone layout
-| List | Ingredients | Directions |
-|:---|:---|:---|
-|![r-phone-list](https://cloud.githubusercontent.com/assets/7604348/15450408/a4e9631a-1f92-11e6-9c00-78e2cc8f58a3.png)|![r-phone-ingredients](https://cloud.githubusercontent.com/assets/7604348/15450404/a4e86e38-1f92-11e6-9ac6-3ac93033abe8.png)| ![r-phone-directions](https://cloud.githubusercontent.com/assets/7604348/15450405/a4e883b4-1f92-11e6-80e2-ad874c334370.png) |
+<img src="https://cloud.githubusercontent.com/assets/7604348/15450408/a4e9631a-1f92-11e6-9c00-78e2cc8f58a3.png" width="400" /> <img src="https://cloud.githubusercontent.com/assets/7604348/15450404/a4e86e38-1f92-11e6-9ac6-3ac93033abe8.png" width="400" /> <img src="https://cloud.githubusercontent.com/assets/7604348/15450405/a4e883b4-1f92-11e6-80e2-ad874c334370.png" width="400" />
+
 #### Tablet layout
-| Grid | Ingredients and Directions |
-|:---|:---|
-| ![r-tablet-list](https://cloud.githubusercontent.com/assets/7604348/15450406/a4e8c126-1f92-11e6-8a17-934a83b74089.png) | ![r-tablet-indredients-directions](https://cloud.githubusercontent.com/assets/7604348/15450407/a4e9271a-1f92-11e6-960d-bc31ae638272.png) |
+<img src="https://cloud.githubusercontent.com/assets/7604348/15450406/a4e8c126-1f92-11e6-8a17-934a83b74089.png" width="600" /> <img src="https://cloud.githubusercontent.com/assets/7604348/15450407/a4e9271a-1f92-11e6-960d-bc31ae638272.png" width="600" />
 
 <a href='https://play.google.com/store/apps/details?id=io.monteirodev.recipes'><img alt='Get it on Google Play' src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="150"/></a>
 
